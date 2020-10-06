@@ -1,0 +1,17 @@
+#Intrument
+#power.light = 5
+#power.ac = 10
+
+no.of.light.per.main.corridors = 1
+no.of.light.per.sub.corridors = 1
+no.of.ac.per.main.corridors = 1
+no.of.ac.per.sub.corridors = 1
+
+#Job Timings
+
+
+#Hotel
+hotel.no.of.floor = 2
+hotel.no.of.main.corridors.per.floor = 1
+hotel.no.of.sub.corridors.per.floor = 2
+
